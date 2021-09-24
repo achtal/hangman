@@ -35,3 +35,8 @@ if __name__ == '__main__':
             break
 
         hangman.print_status()
+
+#todo: add a external word load
+#todo: add a "play again?" at end of game
+#todo: improve on the screen clearing
+#todo: ensure colours work in terminal
